@@ -1,0 +1,110 @@
+export const fridges = [
+  {
+    "id": "1",
+    "product": "fridges",
+    "company": "LG",
+    "image": "/assets/LG InstaView Door-in-Door.jpg",
+    "name": "LG InstaView Door-in-Door",
+    "description": "675L French Door refrigerator with glass panel",
+    "price": "239999",
+    "specs": "675L, French Door, Glass Panel",
+    "about this item": "The LG InstaView Door-in-Door refrigerator features a sleek glass panel that allows you to see inside without opening the door. It’s equipped with a French Door design for easy access and optimal organization.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "2",
+    "product": "fridges",
+    "company": "Samsung",
+    "image": "/assets/Samsung Family Hub.jpg",
+    "name": "Samsung Family Hub",
+    "description": "Smart Refrigerator with touchscreen interface",
+    "price": "299999",
+    "specs": "Touchscreen Interface, Smart Features",
+    "about this item": "The Samsung Family Hub refrigerator comes with a built-in touchscreen interface, perfect for managing family schedules, shopping lists, and entertainment while keeping your food fresh.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "3",
+    "product": "fridges",
+    "company": "Whirlpool",
+    "image": "/assets/Whirlpool 265L.jpg",
+    "name": "Whirlpool 265L",
+    "description": "Top Freezer Refrigerator with fresh food compartment",
+    "price": "24999",
+    "specs": "265L, Top Freezer, Fresh Food Compartment",
+    "about this item": "The Whirlpool 265L Top Freezer Refrigerator offers a spacious fresh food compartment and a convenient top freezer for all your cooling needs.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "4",
+    "product": "fridges",
+    "company": "Godrej",
+    "image": "/assets/Godrej 190L.jpg",
+    "name": "Godrej 190L",
+    "description": "Single Door Refrigerator with energy-efficient features",
+    "price": "15999",
+    "specs": "190L, Single Door, Energy Efficient",
+    "about this item": "The Godrej 190L Single Door Refrigerator is designed to be energy-efficient while offering ample space for your groceries and food items.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "5",
+    "product": "fridges",
+    "company": "LG",
+    "image": "/assets/LG 687L Side-by-Side.jpg",
+    "name": "LG 687L Side-by-Side",
+    "description": "Side-by-Side Refrigerator with Smart Inverter Compressor",
+    "price": "79999",
+    "specs": "687L, Side-by-Side, Smart Inverter Compressor",
+    "about this item": "The LG 687L Side-by-Side Refrigerator features a Smart Inverter Compressor for energy-efficient cooling, ensuring your food stays fresh for longer.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "6",
+    "product": "fridges",
+    "company": "Samsung",
+    "image": "/assets/Samsung 253L Top Freezer.jpg",
+    "name": "Samsung 253L Top Freezer",
+    "description": "Top Freezer Refrigerator with All-around Cooling",
+    "price": "28999",
+    "specs": "253L, Top Freezer, All-around Cooling",
+    "about this item": "The Samsung 253L Top Freezer Refrigerator features All-around Cooling technology, ensuring even cooling and freshness across every shelf.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "7",
+    "product": "fridges",
+    "company": "Haier",
+    "image": "/assets/Haier 320L.jpg",
+    "name": "Haier 320L",
+    "description": "Frost Free Refrigerator with Multiple Cooling Systems",
+    "price": "28990",
+    "specs": "320L, Frost Free, Multiple Cooling Systems",
+    "about this item": "The Haier 320L Frost Free Refrigerator is designed with multiple cooling systems to ensure even temperature distribution and freshness for your food.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "8",
+    "product": "fridges",
+    "company": "Godrej",
+    "image": "/assets/Godrej 350L.jpg",
+    "name": "Godrej 350L",
+    "description": "Frost Free Refrigerator with Energy Efficient Technology",
+    "price": "25999",
+    "specs": "350L, Frost Free, Energy Efficient",
+    "about this item": "The Godrej 350L Frost Free Refrigerator features energy-efficient technology that helps you save on power consumption while keeping your food fresh for longer.",
+    "availability": "In Stock"
+  },
+  {
+    "id": "9",
+    "product": "fridges",
+    "company": "Whirlpool",
+    "image": "/assets/Whirlpool 340L.jpg",
+    "name": "Whirlpool 340L",
+    "description": "Multi-Door Refrigerator with Energy Saving Features",
+    "price": "32999",
+    "specs": "340L, Multi-Door, Energy Saving",
+    "about this item": "The Whirlpool 340L Multi-Door Refrigerator offers multiple compartments for better organization and energy-saving features to keep your electricity bill low.",
+    "availability": "In Stock"
+  }
+];
