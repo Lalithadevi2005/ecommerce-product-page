@@ -2,7 +2,7 @@ export const mensClothing = [
   {
     "id": "1",
     "product": "mensClothing",
-    "image": "/assets/Men's Casual Shirt.jpg",
+    "image": "/ecommerce-product-page/assets/Men's Casual Shirt.jpg",
     "name": "Men's Casual Shirt",
     "description": "Comfortable cotton shirt for casual wear",
     "price": "1499",
@@ -13,7 +13,7 @@ export const mensClothing = [
   {
     "id": "2",
     "product": "mensClothing",
-    "image": "/assets/Men's T-Shirt.jpg",
+    "image": "/ecommerce-product-page/assets/Men's T-Shirt.jpg",
     "name": "Men's T-Shirt",
     "description": "Stylish T-shirt made from soft cotton fabric",
     "price": "799",
@@ -24,7 +24,7 @@ export const mensClothing = [
   {
     "id": "3",
     "product": "mensClothing",
-    "image": "/assets/Men's Slim Fit Jeans.jpg",
+    "image": "/ecommerce-product-page/assets/Men's Slim Fit Jeans.jpg",
     "name": "Men's Slim Fit Jeans",
     "description": "Stretchable slim-fit jeans for a trendy look",
     "price": "1799",
@@ -35,7 +35,7 @@ export const mensClothing = [
   {
     "id": "4",
     "product": "mensClothing",
-    "image": "/assets/Men's Formal Suit.jpg",
+    "image": "/ecommerce-product-page/assets/Men's Formal Suit.jpg",
     "name": "Men's Formal Suit",
     "description": "Classic tailored suit for formal occasions",
     "price": "4999",
@@ -46,7 +46,7 @@ export const mensClothing = [
   {
     "id": "5",
     "product": "mensClothing",
-    "image": "/assets/Men's Bomber Jacket.jpg",
+    "image": "/ecommerce-product-page/assets/Men's Bomber Jacket.jpg",
     "name": "Men's Bomber Jacket",
     "description": "Trendy bomber jacket for the winter season",
     "price": "2499",

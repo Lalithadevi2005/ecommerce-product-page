@@ -2,7 +2,7 @@ export const fragrances = [
   {
     "id": "1",
     "product": "fragrances",
-    "image": "/assets/Floral Perfume.jpg",
+    "image": "/ecommerce-product-page/assets/Floral Perfume.jpg",
     "name": "Floral Perfume",
     "description": "Exotic floral fragrance with long-lasting effect",
     "price": "2499",
@@ -13,7 +13,7 @@ export const fragrances = [
   {
     "id": "2",
     "product": "fragrances",
-    "image": "/assets/Men's Cologne.jpg",
+    "image": "/ecommerce-product-page/assets/Men's Cologne.jpg",
     "name": "Men's Cologne",
     "description": "Citrus-scented cologne with refreshing notes",
     "price": "1999",
@@ -23,8 +23,8 @@ export const fragrances = [
   },
   {
     "id": "3",
-    "product": "/fragrances",
-    "image": "assets/Woody Perfume.jpg",
+    "product": "fragrances",
+    "image": "/ecommerce-product-page/assets/Woody Perfume.jpg",
     "name": "Woody Perfume",
     "description": "Sophisticated woody fragrance with warm notes",
     "price": "2699",
@@ -35,7 +35,7 @@ export const fragrances = [
   {
     "id": "4",
     "product": "fragrances",
-    "image": "/assets/Fruity Perfume.jpg",
+    "image": "/ecommerce-product-page/assets/Fruity Perfume.jpg",
     "name": "Fruity Perfume",
     "description": "Fresh and fruity fragrance for daily use",
     "price": "1499",
@@ -46,7 +46,7 @@ export const fragrances = [
   {
     "id": "5",
     "product": "fragrances",
-    "image": "/assets/Citrus Cologne.jpg",
+    "image": "/ecommerce-product-page/assets/Citrus Cologne.jpg",
     "name": "Citrus Cologne",
     "description": "Refreshing citrus-scented cologne",
     "price": "1799",
@@ -57,7 +57,7 @@ export const fragrances = [
   {
     "id": "6",
     "product": "fragrances",
-    "image": "/assets/Luxury Perfume.jpg",
+    "image": "/ecommerce-product-page/assets/Luxury Perfume.jpg",
     "name": "Luxury Perfume",
     "description": "Premium fragrance with a luxurious essence",
     "price": "4999",

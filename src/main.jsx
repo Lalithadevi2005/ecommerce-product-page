@@ -6,7 +6,7 @@ import{BrowserRouter} from 'react-router-dom'
 import { CartProvider } from './stores/context/cartcontext.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/ecommerce-product-page">
   <StrictMode> 
     <CartProvider>
     <App />

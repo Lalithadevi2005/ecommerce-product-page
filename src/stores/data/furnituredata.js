@@ -2,7 +2,7 @@ export const furniture = [
   {
     "id": "1",
     "product": "furniture",
-    "image": "/assets/Luxury Sofa.jpg",
+    "image": "/ecommerce-product-page/assets/Luxury Sofa.jpg",
     "name": "Luxury Sofa",
     "description": "Comfortable 3-seater luxury sofa with modern design",
     "price": "29999",
@@ -13,7 +13,7 @@ export const furniture = [
   {
     "id": "2",
     "product": "furniture",
-    "image": "/assets/Wooden Dining Table.jpg",
+    "image": "/ecommerce-product-page/assets/Wooden Dining Table.jpg",
     "name": "Wooden Dining Table",
     "description": "Elegant 6-seater wooden dining table for family meals",
     "price": "15999",
@@ -24,7 +24,7 @@ export const furniture = [
   {
     "id": "3",
     "product": "furniture",
-    "image": "/assets/Ergonomic Office Chair.jpg",
+    "image": "/ecommerce-product-page/assets/Ergonomic Office Chair.jpg",
     "name": "Ergonomic Office Chair",
     "description": "Adjustable office chair with lumbar support",
     "price": "7999",
@@ -35,7 +35,7 @@ export const furniture = [
   {
     "id": "4",
     "product": "furniture",
-    "image": "/assets/Queen Size Bed.jpg",
+    "image": "/ecommerce-product-page/assets/Queen Size Bed.jpg",
     "name": "Queen Size Bed",
     "description": "Comfortable queen size bed with memory foam mattress",
     "price": "24999",
@@ -46,7 +46,7 @@ export const furniture = [
   {
     "id": "5",
     "product": "furniture",
-    "image": "/assets/Wooden Bookshelf.jpg",
+    "image": "/ecommerce-product-page/assets/Wooden Bookshelf.jpg",
     "name": "Wooden Bookshelf",
     "description": "Elegant 5-shelf wooden bookshelf for books and decor",
     "price": "7999",
@@ -57,7 +57,7 @@ export const furniture = [
   {
     "id": "6",
     "product": "furniture",
-    "image": "/assets/Glass Coffee Table.jpg",
+    "image": "/ecommerce-product-page/assets/Glass Coffee Table.jpg",
     "name": "Glass Coffee Table",
     "description": "Modern glass-top coffee table with metal legs",
     "price": "4999",

@@ -2,7 +2,7 @@ export const womensClothing = [
   {
     "id": "1",
     "product": "womensClothing",
-    "image": "/assets/Women's Floral Dress.jpg",
+    "image": "/ecommerce-product-page/assets/Women's Floral Dress.jpg",
     "name": "Women's Floral Dress",
     "description": "Elegant floral dress for casual and semi-formal events",
     "price": "2199",
@@ -13,7 +13,7 @@ export const womensClothing = [
   {
     "id": "2",
     "product": "womensClothing",
-    "image": "/assets/Women's Sleeveless Top.jpg",
+    "image": "/ecommerce-product-page/assets/Women's Sleeveless Top.jpg",
     "name": "Women's Sleeveless Top",
     "description": "Lightweight top perfect for warm weather",
     "price": "999",
@@ -24,7 +24,7 @@ export const womensClothing = [
   {
     "id": "3",
     "product": "womensClothing",
-    "image": "/assets/Women's A-Line Skirt.jpg",
+    "image": "/ecommerce-product-page/assets/Women's A-Line Skirt.jpg",
     "name": "Women's A-Line Skirt",
     "description": "Flared A-line skirt, great for casual or work wear",
     "price": "1299",
@@ -35,7 +35,7 @@ export const womensClothing = [
   {
     "id": "4",
     "product": "womensClothing",
-    "image": "/assets/Women's Silk Blouse.jpg",
+    "image": "/ecommerce-product-page/assets/Women's Silk Blouse.jpg",
     "name": "Women's Silk Blouse",
     "description": "Elegant blouse made from premium silk fabric",
     "price": "2499",
@@ -46,7 +46,7 @@ export const womensClothing = [
   {
     "id": "5",
     "product": "womensClothing",
-    "image": "/assets/Women Kurthis.jpg",
+    "image": "/ecommerce-product-page/assets/Women Kurthis.jpg",
     "name": "Women Kurthis",
     "description": "Warm and cozy woolen sweater for winter days",
     "price": "1799",

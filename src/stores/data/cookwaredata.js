@@ -2,7 +2,7 @@ export const cookware = [
   {
     "id": "1",
     "product": "cookware",
-    "image": "/assets/Stainless Steel Pot.jpg",
+    "image": "/ecommerce-product-page/assets/Stainless Steel Pot.jpg",
     "name": "Stainless Steel Pot",
     "description": "Durable stainless steel pot for cooking",
     "price": "1499",
@@ -13,7 +13,7 @@ export const cookware = [
   {
     "id": "2",
     "product": "cookware",
-    "image": "/assets/Non-stick Frying Pan.jpg",
+    "image": "/ecommerce-product-page/assets/Non-stick Frying Pan.jpg",
     "name": "Non-stick Frying Pan",
     "description": "Easy-to-clean non-stick frying pan for daily cooking",
     "price": "999",
@@ -24,7 +24,7 @@ export const cookware = [
   {
     "id": "3",
     "product": "cookware",
-    "image": "/assets/Wooden Cooking Utensils Set.jpg",
+    "image": "/ecommerce-product-page/assets/Wooden Cooking Utensils Set.jpg",
     "name": "Wooden Cooking Utensils Set",
     "description": "Set of wooden spoons, spatulas, and ladles",
     "price": "599",
@@ -35,7 +35,7 @@ export const cookware = [
   {
     "id": "4",
     "product": "cookware",
-    "image": "/assets/Electric Kettle.jpg",
+    "image": "/ecommerce-product-page/assets/Electric Kettle.jpg",
     "name": "Electric Kettle",
     "description": "Fast boiling electric kettle for hot water and tea",
     "price": "899",
@@ -46,7 +46,7 @@ export const cookware = [
   {
     "id": "5",
     "product": "cookware",
-    "image": "/assets/Aluminum Pressure Cooker.jpg",
+    "image": "/ecommerce-product-page/assets/Aluminum Pressure Cooker.jpg",
     "name": "Aluminum Pressure Cooker",
     "description": "High-pressure cooking for faster meals",
     "price": "1299",
@@ -57,7 +57,7 @@ export const cookware = [
   {
     "id": "6",
     "product": "cookware",
-    "image": "/assets/Stainless Steel Grater.jpg",
+    "image": "/ecommerce-product-page/assets/Stainless Steel Grater.jpg",
     "name": "Stainless Steel Grater",
     "description": "Multi-purpose grater for vegetables, cheese, and fruits",
     "price": "299",

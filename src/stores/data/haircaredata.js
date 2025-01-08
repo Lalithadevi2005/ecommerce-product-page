@@ -2,7 +2,7 @@ export const hairCare = [
   {
     "id": "1",
     "product": "hairCare",
-    "image": "/assets/Herbal Shampoo.jpg",
+    "image": "/ecommerce-product-page/assets/Herbal Shampoo.jpg",
     "name": "Herbal Shampoo",
     "description": "Natural shampoo for smooth and shiny hair",
     "price": "399",
@@ -13,7 +13,7 @@ export const hairCare = [
   {
     "id": "2",
     "product": "hairCare",
-    "image": "/assets/Moisturizing Conditioner.jpg",
+    "image": "/ecommerce-product-page/assets/Moisturizing Conditioner.jpg",
     "name": "Moisturizing Conditioner",
     "description": "Deep moisturizing conditioner for dry hair",
     "price": "499",
@@ -24,7 +24,7 @@ export const hairCare = [
   {
     "id": "3",
     "product": "hairCare",
-    "image": "/assets/Coconut Hair Oil.jpg",
+    "image": "/ecommerce-product-page/assets/Coconut Hair Oil.jpg",
     "name": "Coconut Hair Oil",
     "description": "Organic coconut oil for hair nourishment",
     "price": "299",
@@ -35,7 +35,7 @@ export const hairCare = [
   {
     "id": "4",
     "product": "hairCare",
-    "image": "/assets/Repairing Hair Mask.jpg",
+    "image": "/ecommerce-product-page/assets/Repairing Hair Mask.jpg",
     "name": "Repairing Hair Mask",
     "description": "Hair mask for deep repair and hydration",
     "price": "799",
@@ -46,7 +46,7 @@ export const hairCare = [
   {
     "id": "5",
     "product": "hairCare",
-    "image": "/assets/Hold Hairspray.jpg",
+    "image": "/ecommerce-product-page/assets/Hold Hairspray.jpg",
     "name": "Hold Hairspray",
     "description": "Strong hold hairspray for lasting style",
     "price": "399",
@@ -57,7 +57,7 @@ export const hairCare = [
   {
     "id": "6",
     "product": "hairCare",
-    "image": "/assets/Nourishing Hair Serum.jpg",
+    "image": "/ecommerce-product-page/assets/Nourishing Hair Serum.jpg",
     "name": "Nourishing Hair Serum",
     "description": "Hair serum for shiny and frizz-free hair",
     "price": "599",

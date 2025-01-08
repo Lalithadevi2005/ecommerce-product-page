@@ -2,7 +2,7 @@ export const tvs = [
   {
     "id": "1",
     "product": "tvs",
-    "image": "/assets/Samsung Neo QLED 8K.jpg",
+    "image": "/ecommerce-product-page/assets/Samsung Neo QLED 8K.jpg",
     "name": "Samsung Neo QLED 8K",
     "description": "8K Quantum Processor, 75-inch display",
     "price": "499999",
@@ -13,7 +13,7 @@ export const tvs = [
   {
     "id": "2",
     "product": "tvs",
-    "image": "/assets/LG OLED Evo.jpg",
+    "image": "/ecommerce-product-page/assets/LG OLED Evo.jpg",
     "name": "LG OLED Evo",
     "description": "OLED 4K Smart TV, 55-inch display",
     "price": "219999",
@@ -24,7 +24,7 @@ export const tvs = [
   {
     "id": "3",
     "product": "tvs",
-    "image": "/assets/Sony Bravia XR.jpg",
+    "image": "/ecommerce-product-page/assets/Sony Bravia XR.jpg",
     "name": "Sony Bravia XR",
     "description": "4K HDR Smart TV with Cognitive Processor",
     "price": "179999",
@@ -35,7 +35,7 @@ export const tvs = [
   {
     "id": "4",
     "product": "tvs",
-    "image": "/assets/OnePlus Q2 Pro.jpg",
+    "image": "/ecommerce-product-page/assets/OnePlus Q2 Pro.jpg",
     "name": "OnePlus Q2 Pro",
     "description": "4K Quantum Dot Display, 55-inch",
     "price": "69999",
@@ -46,7 +46,7 @@ export const tvs = [
   {
     "id": "5",
     "product": "tvs",
-    "image": "/assets/TCL 6-Series.jpg",
+    "image": "/ecommerce-product-page/assets/TCL 6-Series.jpg",
     "name": "TCL 6-Series",
     "description": "QLED 4K TV, 65-inch",
     "price": "129999",
@@ -57,7 +57,7 @@ export const tvs = [
   {
     "id": "6",
     "product": "tvs",
-    "image": "/assets/Samsung QLED 4K.jpg",
+    "image": "/ecommerce-product-page/assets/Samsung QLED 4K.jpg",
     "name": "Samsung QLED 4K",
     "description": "QLED 4K Smart TV, 55-inch",
     "price": "109999",
@@ -68,7 +68,7 @@ export const tvs = [
   {
     "id": "7",
     "product": "tvs",
-    "image": "/assets/LG NanoCell 90.jpg",
+    "image": "/ecommerce-product-page/assets/LG NanoCell 90.jpg",
     "name": "LG NanoCell 90",
     "description": "4K Smart TV with NanoCell technology, 65-inch",
     "price": "139999",
@@ -79,7 +79,7 @@ export const tvs = [
   {
     "id": "8",
     "product": "tvs",
-    "image": "/assets/Hisense U8G.jpg",
+    "image": "/ecommerce-product-page/assets/Hisense U8G.jpg",
     "name": "Hisense U8G",
     "description": "ULED 4K TV, 55-inch",
     "price": "79999",
@@ -90,7 +90,7 @@ export const tvs = [
   {
     "id": "9",
     "product": "tvs",
-    "image": "/assets/Xiaomi Mi TV 4X.jpg",
+    "image": "/ecommerce-product-page/assets/Xiaomi Mi TV 4X.jpg",
     "name": "Xiaomi Mi TV 4X",
     "description": "4K Smart LED TV, 43-inch",
     "price": "35999",
@@ -101,7 +101,7 @@ export const tvs = [
   {
     "id": "10",
     "product": "tvs",
-    "image": "/assets/Vu Premium TV.jpg",
+    "image": "/ecommerce-product-page/assets/Vu Premium TV.jpg",
     "name": "Vu Premium TV",
     "description": "4K Smart LED TV, 50-inch",
     "price": "49999",

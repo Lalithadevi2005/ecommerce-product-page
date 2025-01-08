@@ -8,6 +8,9 @@
 body{
   background-color:aliceblue;
 }
+.imgBox .head{
+  align-items: end;
+}
 .user{
   display:flex;
   flex-direction:row;

@@ -12,13 +12,11 @@ const Headphones = () => {
       {firstFiveImages.map((item) => (
         <div className='imgBox' key={item.id}>
           <img className='proImage' src={item.image} alt={item.name} />
-         {/* 
-        This is a multi-line comment
-        You can write comments over multiple lines
-       <h2>{item.name}</h2>
-          <p>{item.description}</p>
-          <p>Price: ₹{item.price}</p>
-          <p>{item.availability}</p>*/}
+         
+       <div className='head'><h2>{item.name}</h2>
+          
+          <p>Price: ₹{item.price}</p></div>
+           
         </div>
       ))}
     </div>

@@ -1,6 +1,7 @@
 import React from "react";
 import { phones } from "../stores/data/phone";
 import { useParams } from "react-router-dom";
+ 
 import Navbar from "../stores/components/Navbar";
 import { useCart } from "../stores/context/cartcontext";
 
