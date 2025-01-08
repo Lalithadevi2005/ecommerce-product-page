@@ -17,11 +17,9 @@ const Phone = () => {
             <Link to={`/mobiles/${item.id}`}>
               <img className="proImage" src={item.image} alt={item.name} />
             </Link>
-            {/* Uncomment and add additional product information if needed */}
-            {/* <h2>{item.name}</h2>
-            <p>{item.description}</p>
-            <p>Price: ₹{item.price}</p>
-            <p>{item.availability}</p> */}
+           
+             <h2>{item.name}</h2>
+        
           </div>
         ))}
       </div>

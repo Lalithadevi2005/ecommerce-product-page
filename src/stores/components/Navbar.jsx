@@ -3,16 +3,28 @@ import { Link } from 'react-router-dom';
 import { useCart } from '../context/cartcontext';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faSearch, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { phones } from '../data/phone';  // Import your product data
+import { useNavigate } from 'react-router-dom';  // Import useNavigate from react-router-dom
 
 const Navbar = () => {
   const { cartItems } = useCart();
   const [searchTerm, setSearchTerm] = useState('');
+  const navigate = useNavigate();  // Use useNavigate instead of useHistory
 
   // Handle search functionality
   const handleSearch = () => {
     if (searchTerm.trim()) {
-      alert(`Searching for: ${searchTerm}`);
-      // You can replace this alert with actual search functionality.
+      // Filter products based on the search term
+      const filteredProducts = phones.filter((product) =>
+        product.name.toLowerCase().includes(searchTerm.toLowerCase()) // Case-insensitive search
+      );
+      
+      if (filteredProducts.length > 0) {
+        // Redirect to a search results page (you can pass the filtered products as state or via a URL)
+        navigate('/search-results', { state: { filteredProducts } });  // Use navigate() for redirection
+      } else {
+        alert('No products found matching your search term!');
+      }
     } else {
       alert('Please enter a search term!');
     }

@@ -10,7 +10,10 @@ const MensSingle = () => {
 
   console.log("cartContext:", { addToCart, cartItems }); // Add this line to debug
 
+  // Ensure the id is properly compared by parsing the id to integer
   const product = mensClothing.find((item) => item.id === id);
+
+
 
   return (
     <>

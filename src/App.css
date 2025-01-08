@@ -80,6 +80,7 @@ body{
 .subMenu ul{
   display:flex;
   justify-content:space-between;
+  gap:0px;
 }
 .subMenu{
   background-color: rgb(22, 33, 49);
@@ -448,3 +449,65 @@ border-radius:5px;
           font-size: small;
       }
   }
+/* Mobile Page Container */
+ 
+
+
+
+ 
+
+/* Section for Displaying Phones */
+.pageSection {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.pageImg {
+  text-align: center;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.pageImg img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.pageImg img:hover {
+  transform: scale(1.05);
+}
+
+.proModel {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Navbar styling */
+.Navbar {
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.Navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.Navbar a:hover {
+  background-color: #555;
+  border-radius: 5px;
+}

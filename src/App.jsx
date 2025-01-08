@@ -27,6 +27,7 @@ import TVSingle from './single/tvssingle';
 import MakeupSingle from './single/makeupsingle';
 import HaircareSingle from './single/haircaresingle';
 import FurnitureSingle from './single/furnituresingle';
+import SearchResults from './stores/components/searchresults';
  
 
 const App = () => {
@@ -35,18 +36,19 @@ const App = () => {
        <Routes>
         <Route path='/' element={<LandingPages />}/>
          <Route path='/Mobiles' element={<Mobilepage />}/>
-         <Route path='/laptops' element={<Laptopspage />}/>
-         <Route path='/headphones' element={<Headphones />}/>
-         <Route path='/fridges'   element={<Fridges />}/>
-         <Route path='/mens' element={<Mens />}/>
-         <Route path='/womens' element={<Womens />}/>
-         <Route path='/makeup' element={<Makeup />}/>
-         <Route path='/haircare' element={<Haircare />}/>
-         <Route path='/fragrances' element={<Fragrances />}/>
+         <Route path='/Laptops' element={<Laptopspage />}/>
+         <Route path='/Headphones' element={<Headphones />}/>
+         <Route path='/Fridges'   element={<Fridges />}/>
+         <Route path='/Mens' element={<Mens />}/>
+         <Route path='/Womens' element={<Womens />}/>
+         <Route path='/Makeup' element={<Makeup />}/>
+         <Route path='/Haircare' element={<Haircare />}/>
+         <Route path='/Fragrances' element={<Fragrances />}/>
+         <Route path="/Search-results" element={<SearchResults />}/>
           
-         <Route path='/furniture' element={<Furniture />}/>
-         <Route path='/cookware' element={<Cookware />}/>
-         <Route path='/tvs' element={<Tvpage />}/>
+         <Route path='/Furniture' element={<Furniture />}/>
+         <Route path='/Cookware' element={<Cookware />}/>
+         <Route path='/Tvs' element={<Tvpage />}/>
            <Route path='/mobiles/:id' element={<MobileSingle />}/>
            <Route path='/laptops/:id' element={<LaptopSingle />}/>
            <Route path='/headphones/:id' element={<HeadphonesSingle />}/>

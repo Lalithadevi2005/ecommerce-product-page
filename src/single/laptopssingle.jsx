@@ -8,7 +8,7 @@ const LaptopSingle = () => {
   const { id } = useParams();
   const { addToCart, cartItems } = useCart();
 
-  console.log("cartContext:", { addToCart, cartItems }); // Add this line to debug
+  console.log("cartContext:", { addToCart, cartItems }); // Debugging cart context
 
   const product = laptopsdata.find((item) => item.id === id);
 
